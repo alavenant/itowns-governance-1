@@ -16,6 +16,7 @@ The current designated members by the stakeholders are:
 The current designated members by the PSC are:
 - LAVENANT Antoine (IGN)
 - PICAVET Loïc (Ciril Group)
+
 The elected members by the Core Developers are:
 - JAILLOT Vincent / BOUILLAGUET Quentin (co-chair)
 
